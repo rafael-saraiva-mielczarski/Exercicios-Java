@@ -1,0 +1,2 @@
+Esse exercicio foi o projeto final para o curso de lógica do SENAC, nele uso a maioria dos comando aprendidos no curso, somente funções não estão presente nesse exercicio.
+Para rodar ele pode ser utilizado o Eclipse IDE ou mesmo o VS Code.
