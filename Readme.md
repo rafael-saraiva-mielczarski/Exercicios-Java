@@ -7,6 +7,7 @@
 
 - O Cassino é uma simulação de caça-niquel, nele também uso o gerador Random, é mais um exercicio para brincar e treinar os conhecimentos!
 
+# Pré-Condições para vizualizam do código:
 - Para rodar eles você precisa ter ou o Eclipse IDE ou mesmo o VS Code instalados no seu computador, caso escolha  a opção do VS Code é necessário baixar alguma extensões essenciais para rodar o código em Java(Language Support for Java(TM) by Red Hat e Extension Pack for Java).
 
 - Todos os exercicios rodam no console ou terminal.
